@@ -9,6 +9,13 @@ This Flutter app is designed to manage attendance, track the user's location, an
 - **Location Tracking**: Navigates to a Google Map to display member location data with markers and routes.
 - **Drawer Navigation**: Includes a side drawer with navigation options like "Attendance," "Activity," "Team," and "Logout", etc.
 
+## Technology Used
+
+- Dart
+- Flutter
+- Google-maps API
+- Android Studio
+
 ## Dependencies
 
 - This project uses the following dependencies:
