@@ -1,16 +1,26 @@
-# location_screen
+# Attendance App
 
-A new Flutter project.
+This Flutter app is designed to manage attendance, track the user's location, and provide calendar-based functionality. It includes features such as viewing attendance details, tracking members' locations on a Google map, and selecting dates for attendance using a calendar.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Attendance Tracking**: Displays a list of members with their last active times.
+- **Calendar Integration**: Allows users to select dates to view attendance data.
+- **Location Tracking**: Navigates to a Google Map to display member location data with markers and routes.
+- **Drawer Navigation**: Includes a side drawer with navigation options like "Attendance," "Activity," "Team," and "Logout", etc.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This project uses the following dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. google_maps_flutter: To display Google Maps.
+2. flutter: For app development.
+
+## License
+
+- This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- Google Maps API for displaying the maps and location features.
+- Flutter SDK for making the app development process fast and easy.
