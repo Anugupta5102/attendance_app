@@ -4,7 +4,7 @@ This Flutter app is designed to manage attendance, track the user's location, an
 
 ## Sample Video
 
-![Demo Video](attendence app.gif)
+![attendence app.gif](https://github.com/Anugupta5102/attendance_app/blob/main/attendence%20app.gif)
 
 
 ## Features
