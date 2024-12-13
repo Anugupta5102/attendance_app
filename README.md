@@ -2,6 +2,11 @@
 
 This Flutter app is designed to manage attendance, track the user's location, and provide calendar-based functionality. It includes features such as viewing attendance details, tracking members' locations on a Google map, and selecting dates for attendance using a calendar.
 
+## Sample Video
+
+![Demo Video](attendance-app-google-chrome-2024-12-13-21-32-01_2ZXkVmtv.mp4)
+
+
 ## Features
 
 - **User Attendance Tracking**: Displays a list of members with their last active times.
